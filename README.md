@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on [afroraydude/uspm](https://github.com/afroraydude/uspm)
+- 🔭 I’m currently working on [afroraydude/sticle](https://github.com/afroraydude/sticle)
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
 - 💬 Ask me about Scratch Battle
