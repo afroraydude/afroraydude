@@ -14,6 +14,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make games when I'm bored.
 
-<img align="left" width="430" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api?username=afroraydude&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=afroraydude&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afroraydude&count_private=true)
 
 <img align="right" width="359" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afroraydude&exclude_repo=2D-Souls&layout=compact&amp;show_icons=true&amp;theme=algolia" data-canonical-src="https://github-readme-stats.vercel.app/api?username=afroraydude&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true">
