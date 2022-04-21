@@ -7,9 +7,9 @@
 -->
 
 - 🔭 I’m currently working on [afroraydude/sticle](https://github.com/afroraydude/sticle)
-- 🌱 I’m currently learning Twine/Harlowe
+- 🌱 I’m currently learning NextJS and Typescript
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
-- 💬 Ask me about Scratch Battle
+- 💬 Ask me about Project Alpha
 - 📫 How to reach me: [via email](mailto:afroraydude@protonmail.org)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make games when I'm bored.
