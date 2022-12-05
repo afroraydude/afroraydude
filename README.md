@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on [afroraydude/sticle](https://github.com/afroraydude/sticle)
+- 🔭 I’m currently working on [afroraydude/terminal_chat](https://github.com/afroraydude/terminal_chat)
 - 🌱 I’m currently learning NextJS and Typescript
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
 - 💬 Ask me about Project Alpha
