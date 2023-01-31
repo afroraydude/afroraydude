@@ -7,9 +7,9 @@
 -->
 
 - 🔭 I’m currently working on [afroraydude/terminal_chat](https://github.com/afroraydude/terminal_chat)
-- 🌱 I’m currently learning NextJS and Typescript
+- 🌱 I’m currently learning Rust, NextJS, and TypeScript
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
-- 💬 Ask me about Project Alpha
+- 💬 Ask me about Megabuilding 13
 - 📫 How to reach me: [via email](mailto:afroraydude@protonmail.org)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make games when I'm bored.
