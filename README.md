@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on [afroraydude/terminal_chat](https://github.com/afroraydude/terminal_chat)
-- 🌱 I’m currently learning Rust, NextJS, and TypeScript
+- 🌱 I’m currently learning Rust, NextJS, and Unreal Engine
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
 - 💬 Ask me about Megabuilding 13
 - 📫 How to reach me: [via email](mailto:afroraydude@protonmail.org)
