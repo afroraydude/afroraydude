@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on [afroraydude/terminal_chat](https://github.com/afroraydude/terminal_chat)
+- 🔭 I’m currently working on [Comet](https://github.com/wombatlinux/comet)
 - 🌱 I’m currently learning Rust, NextJS, and Unreal Engine
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
 - 💬 Ask me about Megabuilding 13
