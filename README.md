@@ -9,11 +9,10 @@
 - 🔭 I’m currently working on [Comet](https://github.com/wombatlinux/comet)
 - 🌱 I’m currently learning Rust, NextJS, and Unreal Engine
 - 👯 I’m looking to collaborate on [Wombat Linux](https://wombatlinux.org)
-- 💬 Ask me about Megabuilding 13
+- 💬 Ask me about Rust Kernel Development for RISC-V
 - 📫 How to reach me: [via email](mailto:afroraydude@protonmail.org) or [via X/Twitter](https://x.com/afroraydude)
 - 😄 Pronouns: he/him
 - ☕ [Support Me on Ko-Fi](https://ko-fi.com/afroraydude)
-- ⚡ Fun fact: I make games when I'm bored.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afroraydude&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
